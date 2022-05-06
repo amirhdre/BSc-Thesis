@@ -1,0 +1,12 @@
+*.mp4
+*.m
+*.zip
+.DS_Store
+.ipynb_checkpoints
+*.mat
+*.mp3
+*.wav
+*.png
+*.svg
+*.gif 
+*.npz
