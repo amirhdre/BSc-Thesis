@@ -1,0 +1,62 @@
+name,hypno,df_feat
+P18_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p18n3_synced.txt,feature/P18_N3 L.csv
+P18_N2 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p18n2_synced.txt,feature/P18_N2 R.csv
+P17_N2 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p17n2_synced.txt,feature/P17_N2 L.csv
+P15_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p15n3_synced.txt,feature/P15_N3 L.csv
+P15_N2 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p15n2_synced.txt,feature/P15_N2 L.csv
+P13_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p13n3_synced.txt,feature/P13_N3 L.csv
+P13_N2 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p13n2_synced.txt,feature/P13_N2 L.csv
+P12_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p12n3_synced.txt,feature/P12_N3 L.csv
+P11_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p11n3_synced.txt,feature/P11_N3 L.csv
+P8_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p8n3_synced.txt,feature/P8_N3 L.csv
+QS 11 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_11_synced.txt,feature/QS 11 L.csv
+QS 12 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_12_synced.txt,feature/QS 12 R.csv
+QS 13 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_13_synced.txt,feature/QS 13 L.csv
+QS 15 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_15_synced.txt,feature/QS 15 L.csv
+QS 16 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_16_synced.txt,feature/QS 16 L.csv
+QS 18 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_18_synced.txt,feature/QS 18 R.csv
+QS 19 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_19_synced.txt,feature/QS 19 L.csv
+QS 20 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_20_synced.txt,feature/QS 20 R.csv
+QS 21 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_21_synced.txt,feature/QS 21 R.csv
+QS 22 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_22_synced.txt,feature/QS 22 L.csv
+QS 24 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_24_synced.txt,feature/QS 24 R.csv
+QS 25 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_25_synced.txt,feature/QS 25 R.csv
+QS 26 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_26_synced.txt,feature/QS 26 R.csv
+QS 28 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_28_synced.txt,feature/QS 28 R.csv
+QS 32 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_32_synced.txt,feature/QS 32 R.csv
+QS 34 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_34_synced.txt,feature/QS 34 L.csv
+QS 35 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_35_synced.txt,feature/QS 35 R.csv
+QS 36 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_36_synced.txt,feature/QS 36 R.csv
+QS 37 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_37_synced.txt,feature/QS 37 R.csv
+QS 38 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_38_synced.txt,feature/QS 38 R.csv
+QS 39 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_39_synced.txt,feature/QS 39 R.csv
+QS 40 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_40_synced.txt,feature/QS 40 R.csv
+QS 41 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_41_synced.txt,feature/QS 41 L.csv
+QS 42 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_42_synced.txt,feature/QS 42 R.csv
+QS 45 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_45_synced.txt,feature/QS 45 R.csv
+QS 46 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_46_synced.txt,feature/QS 46 R.csv
+QS 47 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_47_synced.txt,feature/QS 47 R.csv
+QS 48 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_48_synced.txt,feature/QS 48 R.csv
+QS 49 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_49_synced.txt,feature/QS 49 R.csv
+QS 50 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_50_synced.txt,feature/QS 50 R.csv
+QS 51 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_51_synced.txt,feature/QS 51 R.csv
+QS 52 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_52_synced.txt,feature/QS 52 R.csv
+QS 53 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_53_synced.txt,feature/QS 53 R.csv
+QS 54 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_54_synced.txt,feature/QS 54 L.csv
+QS 55 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_55_synced.txt,feature/QS 55 R.csv
+QS 56 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_56_synced.txt,feature/QS 56 L.csv
+QS 57 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_57_synced.txt,feature/QS 57 L.csv
+QS 58 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_58_synced.txt,feature/QS 58 L.csv
+QS 60 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_60_synced.txt,feature/QS 60 L.csv
+QS 61 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_61_synced.txt,feature/QS 61 L.csv
+QS 63 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_63_synced.txt,feature/QS 63 L.csv
+QS 64 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_64_synced.txt,feature/QS 64 L.csv
+QS 66 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_66_synced.txt,feature/QS 66 L.csv
+QS 68 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_68_synced.txt,feature/QS 68 L.csv
+QS 70 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_70_synced.txt,feature/QS 70 L.csv
+QS 71 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_71_synced.txt,feature/QS 71 L.csv
+QS 72 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_72_synced.txt,feature/QS 72 L.csv
+QS 73 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_73_synced.txt,feature/QS 73 L.csv
+QS 79 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_79_synced.txt,feature/QS 79 L.csv
+QS 82 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_82_synced.txt,feature/QS 82 L.csv
+QS 96 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_96_synced.txt,feature/QS 96 L.csv
