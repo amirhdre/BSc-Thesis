@@ -1,0 +1,62 @@
+name,hypno,df_feat,eeg
+P18_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p18n3_synced.txt,feature/P18_N3 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P18_N3/EEG L.edf
+P18_N2 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p18n2_synced.txt,feature/P18_N2 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P18_N2/EEG R.edf
+P17_N2 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p17n2_synced.txt,feature/P17_N2 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P17_N2/EEG L.edf
+P15_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p15n3_synced.txt,feature/P15_N3 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P15_N3/EEG L.edf
+P15_N2 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p15n2_synced.txt,feature/P15_N2 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P15_N2/EEG L.edf
+P13_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p13n3_synced.txt,feature/P13_N3 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P13_N3/EEG L.edf
+P13_N2 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p13n2_synced.txt,feature/P13_N2 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P13_N2/EEG L.edf
+P12_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p12n3_synced.txt,feature/P12_N3 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P12_N3/EEG L.edf
+P11_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p11n3_synced.txt,feature/P11_N3 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P11_N3/EEG L.edf
+P8_N3 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/p8n3_synced.txt,feature/P8_N3 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/Zmax Donders/P8_N3/EEG L.edf
+QS 11 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_11_synced.txt,feature/QS 11 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/11/EEG L.edf
+QS 12 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_12_synced.txt,feature/QS 12 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/12/EEG R.edf
+QS 13 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_13_synced.txt,feature/QS 13 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/13/EEG L.edf
+QS 15 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_15_synced.txt,feature/QS 15 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/15/EEG L.edf
+QS 16 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_16_synced.txt,feature/QS 16 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/16/EEG L.edf
+QS 18 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_18_synced.txt,feature/QS 18 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/18/EEG R.edf
+QS 19 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_19_synced.txt,feature/QS 19 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/19/EEG L.edf
+QS 20 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_20_synced.txt,feature/QS 20 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/20/EEG R.edf
+QS 21 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_21_synced.txt,feature/QS 21 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/21/EEG R.edf
+QS 22 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_22_synced.txt,feature/QS 22 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/22/EEG L.edf
+QS 24 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_24_synced.txt,feature/QS 24 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/24/EEG R.edf
+QS 25 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_25_synced.txt,feature/QS 25 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/25/EEG R.edf
+QS 26 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_26_synced.txt,feature/QS 26 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/26/EEG R.edf
+QS 28 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_28_synced.txt,feature/QS 28 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/28/EEG R.edf
+QS 32 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_32_synced.txt,feature/QS 32 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/32/EEG R.edf
+QS 34 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_34_synced.txt,feature/QS 34 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/34/EEG L.edf
+QS 35 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_35_synced.txt,feature/QS 35 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/35/EEG R.edf
+QS 36 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_36_synced.txt,feature/QS 36 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/36/EEG R.edf
+QS 37 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_37_synced.txt,feature/QS 37 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/37/EEG R.edf
+QS 38 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_38_synced.txt,feature/QS 38 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/38/EEG R.edf
+QS 39 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_39_synced.txt,feature/QS 39 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/39/EEG R.edf
+QS 40 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_40_synced.txt,feature/QS 40 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/40/EEG R.edf
+QS 41 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_41_synced.txt,feature/QS 41 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/41/EEG L.edf
+QS 42 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_42_synced.txt,feature/QS 42 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/42/EEG R.edf
+QS 45 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_45_synced.txt,feature/QS 45 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/45/EEG R.edf
+QS 46 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_46_synced.txt,feature/QS 46 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/46/EEG R.edf
+QS 47 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_47_synced.txt,feature/QS 47 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/47/EEG R.edf
+QS 48 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_48_synced.txt,feature/QS 48 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/48/EEG R.edf
+QS 49 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_49_synced.txt,feature/QS 49 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/49/EEG R.edf
+QS 50 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_50_synced.txt,feature/QS 50 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/50/EEG R.edf
+QS 51 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_51_synced.txt,feature/QS 51 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/51/EEG R.edf
+QS 52 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_52_synced.txt,feature/QS 52 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/52/EEG R.edf
+QS 53 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_53_synced.txt,feature/QS 53 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/53/EEG R.edf
+QS 54 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_54_synced.txt,feature/QS 54 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/54/EEG L.edf
+QS 55 R,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_55_synced.txt,feature/QS 55 R.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/55/EEG R.edf
+QS 56 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_56_synced.txt,feature/QS 56 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/56/EEG L.edf
+QS 57 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_57_synced.txt,feature/QS 57 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/57/EEG L.edf
+QS 58 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_58_synced.txt,feature/QS 58 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/58/EEG L.edf
+QS 60 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_60_synced.txt,feature/QS 60 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/60/EEG L.edf
+QS 61 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_61_synced.txt,feature/QS 61 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/61/EEG L.edf
+QS 63 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_63_synced.txt,feature/QS 63 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/63/EEG L.edf
+QS 64 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_64_synced.txt,feature/QS 64 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/64/EEG L.edf
+QS 66 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_66_synced.txt,feature/QS 66 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/66/EEG L.edf
+QS 68 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_68_synced.txt,feature/QS 68 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/68/EEG L.edf
+QS 70 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_70_synced.txt,feature/QS 70 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/70/EEG L.edf
+QS 71 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_71_synced.txt,feature/QS 71 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/71/EEG L.edf
+QS 72 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_72_synced.txt,feature/QS 72 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/72/EEG L.edf
+QS 73 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_73_synced.txt,feature/QS 73 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/73/EEG L.edf
+QS 79 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_79_synced.txt,feature/QS 79 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/79/EEG L.edf
+QS 82 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_82_synced.txt,feature/QS 82 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/82/EEG L.edf
+QS 96 L,/Users/amirhosseindaraie/Desktop/data/synced-hypnos-merged/session_96_synced.txt,feature/QS 96 L.csv,/Users/amirhosseindaraie/Desktop/data/autoscoring-material/data/QS/96/EEG L.edf
